@@ -1,1 +1,1 @@
-# BDsEmoteAPI
+# BDsEmote-API
